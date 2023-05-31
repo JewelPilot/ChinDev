@@ -53,6 +53,6 @@ Email: chinmerinwagwub@gmail.com\
 LinkedIn: [https://www.linkedin.com/in/chinwagwu/]
 
 
-### 🔗 Personal Website
-Here you can find my personal website where I showcase my projects: [Your Personal Website Link]
+<!--### 🔗 Personal Website
+Here you can find my personal website where I showcase my projects: [Your Personal Website Link]-->
 
