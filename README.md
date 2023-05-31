@@ -8,7 +8,7 @@ United States
 ### 🎓 Education
 Illinois Institute of Technology, Chicago, IL
 
-Bachelor of Science, Major in Information and Technology Management, Minor in Industrial Technology and Management
+Bachelors in Information and Technology Management, Minor in Industrial Technology and Management
 
 
 ### 🛠 Skills
@@ -21,7 +21,7 @@ Bachelor of Science, Major in Information and Technology Management, Minor in In
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-Arduino
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **DevOps:**
 
@@ -41,16 +41,18 @@ Arduino
 
 **Microsoft Office Suite:**
 
-Word, Excel, PowerPoint
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 
 **UX Design:**
 
-Adobe XD, MURAL, User Research, Prototyping
+![Adobe_XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)\ MURAL, User Research, Prototyping
 
 
 ### 📞 Contact Me!
 Email: chinmerinwagwub@gmail.com\
-LinkedIn: [https://www.linkedin.com/in/chinwagwu/]
+LinkedIn: https://www.linkedin.com/in/chinwagwu
 
 
 <!--### 🔗 Personal Website
