@@ -47,7 +47,8 @@ Bachelors in Information and Technology Management, Minor in Industrial Technolo
 
 **UX Design:**
 
-![Adobe_XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)\ MURAL, User Research, Prototyping
+![Adobe_XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+ MURAL, User Research, Prototyping
 
 
 ### 📞 Contact Me!
