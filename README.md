@@ -29,6 +29,7 @@ Bachelors in Information and Technology Management, Minor in Industrial Technolo
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+# Currently learning and acquiring certification in Splunk#
 
 **Operating Systems:**
 
