@@ -50,12 +50,16 @@ Currently learning and acquiring certification in Splunk
 **UX Design:**
 
 ![Adobe_XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
- MURAL, User Research, Prototyping
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![MURAL](https://img.shields.io/badge/MURAL-000?style=for-the-badge&logo=mural&logoColor=white)
+
 
 
 ### 📞 Contact Me!
-Email: chinmerinwagwub@gmail.com\
-LinkedIn: https://www.linkedin.com/in/chinwagwu
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmerinwagwub@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwagwu)
 
 
 <!--### 🔗 Personal Website
