@@ -1,14 +1,17 @@
-# Hello! 👋 I'm Chinmeri Nwagwu
+# Hello! 👋 I'm Chinmeri Nwagwu  
 
-I am an Information and Technology Management graduate from the Illinois Institute of Technology, with a minor in Industrial Technology and Management. I have experience in a wide range of programming languages and tools.
+I am an Information and Technology Management graduate from the Illinois Institute of Technology, with a minor in Industrial Technology and Management. I currently work as a DCO Technician III at Amazon Web Services (AWS), where I’ve gained valuable hands-on experience in cloud infrastructure, network systems, and incident management. I am also actively pursuing a career in cybersecurity, leveraging my certifications and practical expertise.  
 
-### 📍 Current Location
-United States
+### 📍 Current Location  
+San Antonio, Texas, USA  
 
-### 🎓 Education
-Illinois Institute of Technology, Chicago, IL
+### 🎓 Education  
+**Illinois Institute of Technology, Chicago, IL**  
+- Bachelor in Information and Technology Management  
+- Minor in Industrial Technology and Management  
 
-Bachelors in Information and Technology Management, Minor in Industrial Technology and Management
+**University of Texas at San Antonio**  
+- M.S. in Information Technology with a concentration in Cybersecurity (Starting January 2025)  
 
 
 ### 🛠 Skills
