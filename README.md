@@ -32,8 +32,7 @@ San Antonio, Texas, USA
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)](https://slack.com)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
-
-Currently learning and acquiring certification in Splunk
+[![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=Splunk&logoColor=white)](https://www.splunk.com)
 
 **Operating Systems:**
 
@@ -64,7 +63,4 @@ Currently learning and acquiring certification in Splunk
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmerinwagwub@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinwagwu)
 
-
-<!--### 🔗 Personal Website
-Here you can find my personal website where I showcase my projects: [Your Personal Website Link]-->
 
